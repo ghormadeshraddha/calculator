@@ -25,8 +25,6 @@ function App() {
     setNumber(number.slice(0,-1));
   }
 
-
-
   return (
     <>
       <div className="container">
